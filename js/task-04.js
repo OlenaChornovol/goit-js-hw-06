@@ -10,7 +10,6 @@ const buttonIncrement = document.querySelector(
 );
 
 const value = document.querySelector("#value");
-const counter = document.querySelector("#counter");
 
 let counterValue = 0;
 
